@@ -17,7 +17,7 @@
     "@primer/octicons-react": "18.1.0",
     "@primer/react": "^35.20.0",
     "accept-language-parser": "^1.5.0",
-    "ajv": "^8.11.0",
+    "ajv": "^8.18.0",
     "ajv-errors": "^3.0.0",
     "ajv-formats": "^2.1.1",
     "bottleneck": "2.19.5",
@@ -30,7 +30,7 @@
     "cors": "^2.8.5",
     "dayjs": "^1.11.3",
     "dotenv": "^16.0.1",
-    "express": "^4.18.1",
+    "express": "^4.22.0",
     "express-timeout-handler": "^2.2.2",
     "fastest-levenshtein": "1.0.16",
     "file-type": "18.2.1",
@@ -181,7 +181,7 @@
   "optionalDependencies": {
     "esm": "^3.2.25",
     "image-size": "^1.0.1",
-    "jest-puppeteer": "^5.0.4",
+    "jest-puppeteer": "^7.0.0",
     "puppeteer": "^9.1.1",
     "website-scraper": "^5.0.0"
   },
